@@ -1,2 +1,4 @@
-# softeng-proj1
-First Project for the class.
+# Ονοματεπώνυμο: Ελευθερία Ντούλια
+# ΑΜ: 3180129
+
+## Actors του συστήματος: 
